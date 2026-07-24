@@ -27,7 +27,7 @@ export default function TouchMeCard() {
               className='absolute left-0 top-0 w-full h-full'
               style={{
                 background:
-                  'url(https://bu.dusays.com/2023/05/16/64633c4cd36a9.png) center center no-repeat'
+                  'url(https://img.450329089.xyz/PicGo/20260327161842480.png) center center no-repeat'
               }}></div>
           </div>
         }
@@ -36,6 +36,12 @@ export default function TouchMeCard() {
             <div className='font-[1000] text-xl h-full'>
               {siteConfig('HEO_SOCIAL_CARD_TITLE_3', null, CONFIG)}
             </div>
+            <div
+              className='absolute left-0 top-0 w-full h-full'
+              style={{
+                background:
+                  'url(https://img.450329089.xyz/PicGo/20260327164745192.png) center center no-repeat'
+              }}></div>
           </SmartLink>
         }
       />
